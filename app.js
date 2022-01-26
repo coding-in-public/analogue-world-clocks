@@ -7,7 +7,7 @@ const UI = {
 }
 
   
-function updateClock = () => {
+function updateClock(){
   // GETTING TIME
   const now = new Date();
   const date = now.getDate();
